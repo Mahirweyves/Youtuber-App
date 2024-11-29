@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\HomePC\\SHINY",
+        "app_url": "https://yvesm.shinyapps.io/shiny/",
+        "app_id": 13479366,
+        "app_guid": null,
+        "title": "SHINY",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
